@@ -7,16 +7,7 @@ Se implementará el contenido de una clase básica, con sus atributos y métodos
   ser instanciada en el método ``main()`` de ``Exercise`` y se puedan realizar correctamente los ejercicios propuestos a continuación.
 
 ### Clases y métodos a implementar
-* La clase ``Car`` proporcionada está vacía. Será necesario copiar todo lo que se muestra en las diapositivas del temario de POO dentro
-  de esta clase: sus atributos y métodos.
-
-
-* IMPORTANTE: en las diapositivas, el atributo ``steeringWheelAngle`` debe cambiar de nombre en este ejercicio a ``wheelsAngle``.
-  También, el método de las diapositivas ``turnSteeringWheel()`` debe cambiar de nombre a ``turnAngleOfWheels()``. Otros cambios podrían
-  ser necesarios, como por ejemplo añadir ciertas comprobaciones de datos, o algún cambio más: aplicarlos para lograr que los test se
-  ejecutan correctamente (sin modificar los test).
-
-
+* La clase ``Car`` proporcionada tiene un esquelto mínimo.
 
 * Dentro del ``main()`` será necesario instanciar objetos de tipo ``Car`` y realizar ejercicios de las siguientes funcionalidades:
   * Un método booleano que verifique si el valor del tacómetro es cero
